@@ -1,0 +1,6 @@
+- better labels
+- legend for abbreviations
+- legend for colors
+- separate data from app entrypoint
+- better deploy process
+- somehow mark when data is already per-portion
