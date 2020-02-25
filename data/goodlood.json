@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ciemna czekolada",
+    "weight": [100],
+    "calories": 182.3,
+    "macros": {
+      "protein": null,
+      "fat": null,
+      "carbs": null
+    }
+  },
+  {
+    "name": "Karmel z różową solą himalajską",
+    "weight": [100],
+    "calories": 171.8,
+    "macros": {
+      "protein": null,
+      "fat": null,
+      "carbs": null
+    }
+  },
+  {
+    "name": "Polska truskawka",
+    "weight": [100],
+    "calories": 101.6,
+    "macros": {
+      "protein": null,
+      "fat": null,
+      "carbs": null
+    }
+  },
+  {
+    "name": "Śmietanka ze Skały",
+    "weight": [100],
+    "calories": 194,
+    "macros": {
+      "protein": null,
+      "fat": null,
+      "carbs": null
+    }
+  }
+]
