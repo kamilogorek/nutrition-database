@@ -1,4 +1,5 @@
-import { h, render, Component } from "preact";
+import React from "react";
+import ReactDOM from "react-dom";
 import { companies, dataset } from "./data";
 
 const NO_DATA = "—";
@@ -19,7 +20,7 @@ function unify(input) {
     .replace(/ź/g, "z");
 }
 
-class Item extends Component {
+class Item extends React.Component {
   render() {
     const {
       company,
@@ -39,7 +40,7 @@ class Item extends Component {
       caloriesFromMacros < calories - CORRECTNESS_THRESHOLD || caloriesFromMacros > calories + CORRECTNESS_THRESHOLD;
 
     return (
-      <tr class={hasIncorrectMacros && "incorrect-macros"}>
+      <tr className={hasIncorrectMacros ? "incorrect-macros" : ""}>
         <td>{company}</td>
         <td>{name}</td>
         <td>{weight.map(w => Math.round(w)).join(SEPARATOR) || NO_DATA}</td>
@@ -55,22 +56,25 @@ class Item extends Component {
   }
 }
 
-class NoItems extends Component {
+class NoItems extends React.Component {
   render() {
     return (
       <tr>
-        <td colspan="10">No matched items</td>
+        <td colSpan="10">No matched items</td>
       </tr>
     );
   }
 }
 
-class App extends Component {
-  state = { filter: "" };
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { filter: "" };
+  }
 
-  onInput = ev => {
+  onInput(ev) {
     this.setState({ filter: ev.target.value });
-  };
+  }
 
   render() {
     const items = dataset.filter(item =>
@@ -80,9 +84,9 @@ class App extends Component {
     );
     return (
       <div>
-        <h1 class="title">Food Nutrition Database</h1>
-        <h2 class="subtitle">
-          <strong>Available datasets:</strong> {companies}
+        <h1 className="title">Food Nutrition Database</h1>
+        <h2 className="subtitle">
+          <strong>Available datasets:</strong> {Object.keys(companies).join(", ")}
         </h2>
         <section>
           <p>
@@ -101,13 +105,13 @@ class App extends Component {
           <p>- items marked as yellow has a large difference between declared and calculated calories amount</p>
         </section>
         <input
-          class="input is-medium"
+          className="input is-medium"
           placeholder="Filter"
           type="text"
           value={this.state.value}
-          onInput={this.onInput}
+          onInput={e => this.onInput(e)}
         />
-        <table class="table is-striped is-hoverable is-fullwidth">
+        <table className="table is-striped is-hoverable is-fullwidth">
           <thead>
             <tr>
               <th>Company</th>
@@ -123,11 +127,11 @@ class App extends Component {
             </tr>
           </thead>
 
-          <tbody>{items.length ? items.map(item => <Item data={item} />) : <NoItems />}</tbody>
+          <tbody>{items.length ? items.map((item, i) => <Item data={item} key={i} />) : <NoItems />}</tbody>
         </table>
       </div>
     );
   }
 }
 
-render(<App />, document.body);
+ReactDOM.render(<App />, document.getElementById("root"));
