@@ -1,0 +1,23 @@
+@import "~bulma";
+
+body {
+  padding: 1rem;
+}
+
+input {
+  margin-bottom: 1rem;
+}
+
+table {
+  position: relative;
+}
+
+th {
+  background: $white-ter;
+  position: sticky;
+  top: 0;
+}
+
+.incorrect-macros {
+  background: rgba($warning, 0.2);
+}

@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Autorskie guacamole",
+    "weight": [70],
+    "calories": 162,
+    "macros": {
+      "protein": 2,
+      "fat": 14,
+      "carbs": 5
+    }
+  },
+  {
+    "name": "Awokadus - mały głód",
+    "weight": [282],
+    "calories": 278,
+    "macros": {
+      "protein": 11,
+      "fat": 19,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Awokadus - zwykły głód",
+    "weight": [430],
+    "calories": 282,
+    "macros": {
+      "protein": 11,
+      "fat": 19,
+      "carbs": 19
+    }
+  },
+  {
+    "name": "Bebek - mały głód",
+    "weight": [285],
+    "calories": 220,
+    "macros": {
+      "protein": 10,
+      "fat": 13,
+      "carbs": 21
+    }
+  },
+  {
+    "name": "Bebek - zwykły głód",
+    "weight": [434],
+    "calories": 231,
+    "macros": {
+      "protein": 10,
+      "fat": 14,
+      "carbs": 19
+    }
+  },
+  {
+    "name": "Bebek Junior - mały głód",
+    "weight": [260],
+    "calories": 253,
+    "macros": {
+      "protein": 11,
+      "fat": 15,
+      "carbs": 22
+    }
+  },
+  {
+    "name": "Bebek Junior - zwykły głód",
+    "weight": [402],
+    "calories": 260,
+    "macros": {
+      "protein": 12,
+      "fat": 15,
+      "carbs": 21
+    }
+  },
+  {
+    "name": "Bułka - mały głód",
+    "weight": [75],
+    "calories": 332,
+    "macros": {
+      "protein": 10,
+      "fat": 5,
+      "carbs": 63
+    }
+  },
+  {
+    "name": "Bułka - zwykły głód",
+    "weight": [110],
+    "calories": 333,
+    "macros": {
+      "protein": 10,
+      "fat": 5,
+      "carbs": 63
+    }
+  },
+  {
+    "name": "Chorizard - mały głód",
+    "weight": [299],
+    "calories": 252,
+    "macros": {
+      "protein": 10,
+      "fat": 18,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Chorizard - zwykły głód",
+    "weight": [429],
+    "calories": 264,
+    "macros": {
+      "protein": 10,
+      "fat": 18,
+      "carbs": 19
+    }
+  },
+  {
+    "name": "Chutney śliwkowo-imbirowy",
+    "weight": [30],
+    "calories": 67,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 14
+    }
+  },
+  {
+    "name": "Coleslaw",
+    "weight": [150],
+    "calories": 188,
+    "macros": {
+      "protein": 1,
+      "fat": 18,
+      "carbs": 5
+    }
+  },
+  {
+    "name": "Extra boczek",
+    "weight": [8],
+    "calories": 660,
+    "macros": {
+      "protein": 50,
+      "fat": 50,
+      "carbs": 3
+    }
+  },
+  {
+    "name": "Extra chilli",
+    "weight": [10],
+    "calories": 40,
+    "macros": {
+      "protein": 2,
+      "fat": 0,
+      "carbs": 7
+    }
+  },
+  {
+    "name": "Extra ser",
+    "weight": [12],
+    "calories": 344,
+    "macros": {
+      "protein": 26,
+      "fat": 26,
+      "carbs": 1
+    }
+  },
+  {
+    "name": "Gonzales - mały głód",
+    "weight": [276],
+    "calories": 265,
+    "macros": {
+      "protein": 10,
+      "fat": 14,
+      "carbs": 26
+    }
+  },
+  {
+    "name": "Gonzales - zwykły głód",
+    "weight": [424],
+    "calories": 252,
+    "macros": {
+      "protein": 11,
+      "fat": 15,
+      "carbs": 19
+    }
+  },
+  {
+    "name": "Ice Tea",
+    "weight": [350],
+    "calories": 45,
+    "macros": {
+      "protein": 0,
+      "fat": 0,
+      "carbs": 11
+    }
+  },
+  {
+    "name": "Ketchup Heinz",
+    "weight": [20],
+    "calories": 102,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 23
+    }
+  },
+  {
+    "name": "Kevin - mały głód",
+    "weight": [272],
+    "calories": 323,
+    "macros": {
+      "protein": 13,
+      "fat": 19,
+      "carbs": 25
+    }
+  },
+  {
+    "name": "Kevin - zwykły głód",
+    "weight": [414],
+    "calories": 298,
+    "macros": {
+      "protein": 13,
+      "fat": 19,
+      "carbs": 22
+    }
+  },
+  {
+    "name": "Klasyk - mały głód",
+    "weight": [264],
+    "calories": 231,
+    "macros": {
+      "protein": 10,
+      "fat": 13,
+      "carbs": 22
+    }
+  },
+  {
+    "name": "Klasyk - zwykły głód",
+    "weight": [415],
+    "calories": 228,
+    "macros": {
+      "protein": 10,
+      "fat": 14,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Konfitura z czarnej porzeczki",
+    "weight": [25],
+    "calories": 86,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Kotlet Duży (Pasibrzuch)",
+    "weight": [140],
+    "calories": 278,
+    "macros": {
+      "protein": 21,
+      "fat": 22,
+      "carbs": 0
+    }
+  },
+  {
+    "name": "Kotlet Wege (duży)",
+    "weight": [150],
+    "calories": 287,
+    "macros": {
+      "protein": 8,
+      "fat": 18,
+      "carbs": 22
+    }
+  },
+  {
+    "name": "Kotlet Wege (mały)",
+    "weight": [100],
+    "calories": 287,
+    "macros": {
+      "protein": 8,
+      "fat": 18,
+      "carbs": 22
+    }
+  },
+  {
+    "name": "Kulki ostre 4szt.",
+    "weight": [85],
+    "calories": 326,
+    "macros": {
+      "protein": 17,
+      "fat": 24,
+      "carbs": 11
+    }
+  },
+  {
+    "name": "Kulki ostre 8szt.",
+    "weight": [170],
+    "calories": 326,
+    "macros": {
+      "protein": 17,
+      "fat": 24,
+      "carbs": 11
+    }
+  },
+  {
+    "name": "Kulki serowe 4szt.",
+    "weight": [85],
+    "calories": 355,
+    "macros": {
+      "protein": 20,
+      "fat": 26,
+      "carbs": 9
+    }
+  },
+  {
+    "name": "Kulki serowe 8szt.",
+    "weight": [170],
+    "calories": 355,
+    "macros": {
+      "protein": 20,
+      "fat": 26,
+      "carbs": 9
+    }
+  },
+  {
+    "name": "Kura BBQ",
+    "weight": [434],
+    "calories": 228,
+    "macros": {
+      "protein": 11,
+      "fat": 12,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Kura BBQ",
+    "weight": [295],
+    "calories": 228,
+    "macros": {
+      "protein": 11,
+      "fat": 12,
+      "carbs": 21
+    }
+  },
+  {
+    "name": "Kura Classico",
+    "weight": [422],
+    "calories": 217,
+    "macros": {
+      "protein": 11,
+      "fat": 11,
+      "carbs": 19
+    }
+  },
+  {
+    "name": "Kura Classico",
+    "weight": [296],
+    "calories": 205,
+    "macros": {
+      "protein": 11,
+      "fat": 10,
+      "carbs": 19
+    }
+  },
+  {
+    "name": "Kura Morales",
+    "weight": [460],
+    "calories": 240,
+    "macros": {
+      "protein": 12,
+      "fat": 13,
+      "carbs": 18
+    }
+  },
+  {
+    "name": "Kura Morales",
+    "weight": [321],
+    "calories": 238,
+    "macros": {
+      "protein": 13,
+      "fat": 13,
+      "carbs": 19
+    }
+  },
+  {
+    "name": "Lemoniada",
+    "weight": [350],
+    "calories": 72,
+    "macros": {
+      "protein": 0,
+      "fat": 0,
+      "carbs": 18
+    }
+  },
+  {
+    "name": "Majonez",
+    "weight": [20],
+    "calories": 660,
+    "macros": {
+      "protein": 1,
+      "fat": 72,
+      "carbs": 3
+    }
+  },
+  {
+    "name": "Mangór - mały głód",
+    "weight": [268],
+    "calories": 247,
+    "macros": {
+      "protein": 9,
+      "fat": 13,
+      "carbs": 24
+    }
+  },
+  {
+    "name": "Mangór - zwykły głód",
+    "weight": [407],
+    "calories": 234,
+    "macros": {
+      "protein": 10,
+      "fat": 14,
+      "carbs": 22
+    }
+  },
+  {
+    "name": "Masło orzechowe",
+    "weight": [25],
+    "calories": 668,
+    "macros": {
+      "protein": 28,
+      "fat": 53,
+      "carbs": 15
+    }
+  },
+  {
+    "name": "Nachosy",
+    "weight": [80],
+    "calories": 480,
+    "macros": {
+      "protein": 7,
+      "fat": 22,
+      "carbs": 63
+    }
+  },
+  {
+    "name": "Osztypek - mały głód",
+    "weight": [265],
+    "calories": 275,
+    "macros": {
+      "protein": 12,
+      "fat": 16,
+      "carbs": 22
+    }
+  },
+  {
+    "name": "Osztypek - zwykły głód",
+    "weight": [414],
+    "calories": 271,
+    "macros": {
+      "protein": 13,
+      "fat": 17,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Pasi Bataty",
+    "weight": [120],
+    "calories": 462,
+    "macros": {
+      "protein": 2,
+      "fat": 24,
+      "carbs": 32
+    }
+  },
+  {
+    "name": "Pasi Frytki",
+    "weight": [130],
+    "calories": 451,
+    "macros": {
+      "protein": 3,
+      "fat": 26,
+      "carbs": 31
+    }
+  },
+  {
+    "name": "Pasta red curry",
+    "weight": [30],
+    "calories": 81,
+    "macros": {
+      "protein": 2,
+      "fat": 5,
+      "carbs": 7
+    }
+  },
+  {
+    "name": "Pasta z suszonych pomidorów i żurawiny",
+    "weight": [50],
+    "calories": 211,
+    "macros": {
+      "protein": 3,
+      "fat": 8,
+      "carbs": 29
+    }
+  },
+  {
+    "name": "Pastuszek kurczak",
+    "weight": [324],
+    "calories": 329,
+    "macros": {
+      "protein": 14,
+      "fat": 16,
+      "carbs": 34
+    }
+  },
+  {
+    "name": "Pastuszek wołowina",
+    "weight": [304],
+    "calories": 337,
+    "macros": {
+      "protein": 12,
+      "fat": 17,
+      "carbs": 33
+    }
+  },
+  {
+    "name": "Pestardo - mały głód",
+    "weight": [333],
+    "calories": 227,
+    "macros": {
+      "protein": 11,
+      "fat": 14,
+      "carbs": 17
+    }
+  },
+  {
+    "name": "Pestardo - zwykły głód",
+    "weight": [462],
+    "calories": 237,
+    "macros": {
+      "protein": 11,
+      "fat": 15,
+      "carbs": 18
+    }
+  },
+  {
+    "name": "Pesto z suszonych pomidorów i rukoli",
+    "weight": [25],
+    "calories": 86,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Redhot - mały głód",
+    "weight": [240],
+    "calories": 247,
+    "macros": {
+      "protein": 10,
+      "fat": 14,
+      "carbs": 24
+    }
+  },
+  {
+    "name": "Redhot - zwykły głód",
+    "weight": [384],
+    "calories": 241,
+    "macros": {
+      "protein": 10,
+      "fat": 15,
+      "carbs": 22
+    }
+  },
+  {
+    "name": "Sałatka Kurczak",
+    "weight": [340],
+    "calories": 198,
+    "macros": {
+      "protein": 11,
+      "fat": 13,
+      "carbs": 8
+    }
+  },
+  {
+    "name": "Sałatka Tofu",
+    "weight": [225],
+    "calories": 238,
+    "macros": {
+      "protein": 9,
+      "fat": 19,
+      "carbs": 8
+    }
+  },
+  {
+    "name": "Seruś",
+    "weight": [120],
+    "calories": 343,
+    "macros": {
+      "protein": 10,
+      "fat": 11,
+      "carbs": 51
+    }
+  },
+  {
+    "name": "Sos BBQ",
+    "weight": [35],
+    "calories": 120,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 28
+    }
+  },
+  {
+    "name": "Sos BBQ",
+    "weight": [25],
+    "calories": 120,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 28
+    }
+  },
+  {
+    "name": "Sos biały",
+    "weight": [35],
+    "calories": 502,
+    "macros": {
+      "protein": 2,
+      "fat": 52,
+      "carbs": 5
+    }
+  },
+  {
+    "name": "Sos biały",
+    "weight": [60],
+    "calories": 502,
+    "macros": {
+      "protein": 2,
+      "fat": 52,
+      "carbs": 5
+    }
+  },
+  {
+    "name": "Sos mango-chilli",
+    "weight": [35],
+    "calories": 86,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Sos mango-chilli",
+    "weight": [25],
+    "calories": 86,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Sos musztardowo-miodowy",
+    "weight": [18],
+    "calories": 573,
+    "macros": {
+      "protein": 3,
+      "fat": 54,
+      "carbs": 17
+    }
+  },
+  {
+    "name": "Sos pomidorowo-bazyliowy",
+    "weight": [25],
+    "calories": 86,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 20
+    }
+  },
+  {
+    "name": "Sos różowy",
+    "weight": [35],
+    "calories": 484,
+    "macros": {
+      "protein": 1,
+      "fat": 48,
+      "carbs": 12
+    }
+  },
+  {
+    "name": "Sos różowy",
+    "weight": [60],
+    "calories": 484,
+    "macros": {
+      "protein": 1,
+      "fat": 48,
+      "carbs": 12
+    }
+  },
+  {
+    "name": "Standard - mały głód",
+    "weight": [315],
+    "calories": 202,
+    "macros": {
+      "protein": 9,
+      "fat": 12,
+      "carbs": 17
+    }
+  },
+  {
+    "name": "Standard - zwykły głód",
+    "weight": [454],
+    "calories": 214,
+    "macros": {
+      "protein": 9,
+      "fat": 13,
+      "carbs": 17
+    }
+  },
+  {
+    "name": "Stripsy",
+    "weight": [200],
+    "calories": 358,
+    "macros": {
+      "protein": 16,
+      "fat": 19,
+      "carbs": 29
+    }
+  },
+  {
+    "name": "Wiesio - mały głód",
+    "weight": [353],
+    "calories": 201,
+    "macros": {
+      "protein": 9,
+      "fat": 11,
+      "carbs": 15
+    }
+  },
+  {
+    "name": "Wiesio - zwykły głód",
+    "weight": [492],
+    "calories": 205,
+    "macros": {
+      "protein": 10,
+      "fat": 12,
+      "carbs": 16
+    }
+  },
+  {
+    "name": "Włoski Pastuch - mały głód",
+    "weight": [226],
+    "calories": 299,
+    "macros": {
+      "protein": 12,
+      "fat": 17,
+      "carbs": 24
+    }
+  },
+  {
+    "name": "Włoski Pastuch - zwykły głód",
+    "weight": [360],
+    "calories": 283,
+    "macros": {
+      "protein": 13,
+      "fat": 17,
+      "carbs": 23
+    }
+  },
+  {
+    "name": "Zielsko",
+    "weight": [75],
+    "calories": 99,
+    "macros": {
+      "protein": 5,
+      "fat": 15,
+      "carbs": 4
+    }
+  }
+]

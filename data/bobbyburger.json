@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Alibaba",
+    "weight": [100],
+    "calories": 915.3,
+    "macros": {
+      "protein": 35.9,
+      "fat": 61.8,
+      "carbs": 55.4
+    }
+  },
+  {
+    "name": "Bobby Burger",
+    "weight": [100],
+    "calories": 1035.9,
+    "macros": {
+      "protein": 57.4,
+      "fat": 59.75,
+      "carbs": 70.3
+    }
+  },
+  {
+    "name": "Bobby’s Salad",
+    "weight": [100],
+    "calories": 368.8,
+    "macros": {
+      "protein": 32.5,
+      "fat": 19.3,
+      "carbs": 18.9
+    }
+  },
+  {
+    "name": "Brajan",
+    "weight": [100],
+    "calories": 677.6,
+    "macros": {
+      "protein": 19.9,
+      "fat": 23,
+      "carbs": 87.3
+    }
+  },
+  {
+    "name": "Cheese",
+    "weight": [100],
+    "calories": 618.7,
+    "macros": {
+      "protein": 34,
+      "fat": 33.1,
+      "carbs": 45.6
+    }
+  },
+  {
+    "name": "Cheese Bacon",
+    "weight": [100],
+    "calories": 723.6,
+    "macros": {
+      "protein": 35.9,
+      "fat": 40.8,
+      "carbs": 52.8
+    }
+  },
+  {
+    "name": "Chicken",
+    "weight": [100],
+    "calories": 456.6,
+    "macros": {
+      "protein": 27.9,
+      "fat": 15.8,
+      "carbs": 50
+    }
+  },
+  {
+    "name": "Classic",
+    "weight": [100],
+    "calories": 543.2,
+    "macros": {
+      "protein": 27.6,
+      "fat": 28.1,
+      "carbs": 44.4
+    }
+  },
+  {
+    "name": "Double Death by Cheese",
+    "weight": [100],
+    "calories": 1141.2,
+    "macros": {
+      "protein": 67.6,
+      "fat": 69.4,
+      "carbs": 62.6
+    }
+  },
+  {
+    "name": "Double Trouble with Bacon",
+    "weight": [100],
+    "calories": 1140,
+    "macros": {
+      "protein": 59,
+      "fat": 70.5,
+      "carbs": 69.7
+    }
+  },
+  {
+    "name": "Fries Box",
+    "weight": [100],
+    "calories": 738.2,
+    "macros": {
+      "protein": 11.9,
+      "fat": 37.3,
+      "carbs": 107.2
+    }
+  },
+  {
+    "name": "Frytki",
+    "weight": [100],
+    "calories": 247.6,
+    "macros": {
+      "protein": 3.6,
+      "fat": 11.6,
+      "carbs": 37.8
+    }
+  },
+  {
+    "name": "Frytki Skin On",
+    "weight": [100],
+    "calories": 154.6,
+    "macros": {
+      "protein": 3.2,
+      "fat": 8.8,
+      "carbs": 21.4
+    }
+  },
+  {
+    "name": "Godzilla",
+    "weight": [100],
+    "calories": 1485.8,
+    "macros": {
+      "protein": 89.9,
+      "fat": 100.2,
+      "carbs": 56.8
+    }
+  },
+  {
+    "name": "Grażyna",
+    "weight": [100],
+    "calories": 612.7,
+    "macros": {
+      "protein": 16.1,
+      "fat": 25.9,
+      "carbs": 86.2
+    }
+  },
+  {
+    "name": "Hot Bacon",
+    "weight": [100],
+    "calories": 708.9,
+    "macros": {
+      "protein": 36.2,
+      "fat": 40.9,
+      "carbs": 49.2
+    }
+  },
+  {
+    "name": "Janush",
+    "weight": [100],
+    "calories": 680.9,
+    "macros": {
+      "protein": 14.5,
+      "fat": 35.6,
+      "carbs": 78.3
+    }
+  },
+  {
+    "name": "Keto Burger",
+    "weight": [100],
+    "calories": 526.9,
+    "macros": {
+      "protein": 44.7,
+      "fat": 35,
+      "carbs": 9.4
+    }
+  },
+  {
+    "name": "Mango & Onion",
+    "weight": [100],
+    "calories": 953.4,
+    "macros": {
+      "protein": 37.6,
+      "fat": 53.3,
+      "carbs": 76.4
+    }
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "weight": [100],
+    "calories": 407.5,
+    "macros": {
+      "protein": 18.8,
+      "fat": 23.8,
+      "carbs": 27.5
+    }
+  },
+  {
+    "name": "Narchos",
+    "weight": [100],
+    "calories": 811.6,
+    "macros": {
+      "protein": 34.3,
+      "fat": 43.2,
+      "carbs": 65
+    }
+  },
+  {
+    "name": "Onion Attacks",
+    "weight": [100],
+    "calories": 1043.5,
+    "macros": {
+      "protein": 39.1,
+      "fat": 66.6,
+      "carbs": 73
+    }
+  },
+  {
+    "name": "Onion Rings",
+    "weight": [100],
+    "calories": 382.2,
+    "macros": {
+      "protein": 6.2,
+      "fat": 16.4,
+      "carbs": 49.9
+    }
+  },
+  {
+    "name": "Power Plant",
+    "weight": [100],
+    "calories": 551.8,
+    "macros": {
+      "protein": 28.9,
+      "fat": 24.3,
+      "carbs": 52.7
+    }
+  },
+  {
+    "name": "Simple Green Salad",
+    "weight": [100],
+    "calories": 55.5,
+    "macros": {
+      "protein": 1.9,
+      "fat": 2.8,
+      "carbs": 6.9
+    }
+  },
+  {
+    "name": "Taekwondo",
+    "weight": [100],
+    "calories": 420.3,
+    "macros": {
+      "protein": 30.4,
+      "fat": 5.7,
+      "carbs": 63
+    }
+  },
+  {
+    "name": "Vedżesika",
+    "weight": [100],
+    "calories": 751.1,
+    "macros": {
+      "protein": 31.1,
+      "fat": 30.3,
+      "carbs": 86.8
+    }
+  }
+]

@@ -1,0 +1,1652 @@
+[
+  {
+    "name": "Ananas",
+    "weight": [],
+    "calories": 60,
+    "macros": {
+      "protein": 0,
+      "fat": 0,
+      "carbs": 16
+    }
+  },
+  {
+    "name": "Arabiata",
+    "weight": [387],
+    "calories": 149.74,
+    "macros": {
+      "protein": 4.15,
+      "fat": 5.41,
+      "carbs": 20.98
+    }
+  },
+  {
+    "name": "Bananowo-czekoladowe naleśniki  z chmurką bitej śmietany",
+    "weight": [270],
+    "calories": 257.7,
+    "macros": {
+      "protein": 2.95,
+      "fat": 16.25,
+      "carbs": 26.49
+    }
+  },
+  {
+    "name": "Barbecue",
+    "weight": [430, 795, 1150],
+    "calories": 224.33,
+    "macros": {
+      "protein": 10.49,
+      "fat": 8.84,
+      "carbs": 25.75
+    }
+  },
+  {
+    "name": "Basilico",
+    "weight": [374, 619, 968],
+    "calories": 185.12,
+    "macros": {
+      "protein": 5.14,
+      "fat": 4.29,
+      "carbs": 31.81
+    }
+  },
+  {
+    "name": "Bazylia świeża",
+    "weight": [],
+    "calories": 23,
+    "macros": {
+      "protein": 3.2,
+      "fat": 0.64,
+      "carbs": 2.7
+    }
+  },
+  {
+    "name": "Bianco Nero",
+    "weight": [90],
+    "calories": 369,
+    "macros": {
+      "protein": 4.1,
+      "fat": 10,
+      "carbs": 43.5
+    }
+  },
+  {
+    "name": "Bitter Lemon Tonic",
+    "weight": [320],
+    "calories": 41.63,
+    "macros": {
+      "protein": 0.09,
+      "fat": 0.03,
+      "carbs": 9.92
+    }
+  },
+  {
+    "name": "Boczek wędzony",
+    "weight": [],
+    "calories": 334,
+    "macros": {
+      "protein": 12,
+      "fat": 31,
+      "carbs": 0.7
+    }
+  },
+  {
+    "name": "Bolognese z mięsem wieprzowym",
+    "weight": [425],
+    "calories": 149.82,
+    "macros": {
+      "protein": 5.96,
+      "fat": 4.31,
+      "carbs": 21.35
+    }
+  },
+  {
+    "name": "Brokuły",
+    "weight": [],
+    "calories": 26.23,
+    "macros": {
+      "protein": 2.95,
+      "fat": 0.33,
+      "carbs": 5.25
+    }
+  },
+  {
+    "name": "Bruschetta z pieczarkami",
+    "weight": [142],
+    "calories": 153.9,
+    "macros": {
+      "protein": 8.18,
+      "fat": 5.02,
+      "carbs": 19.86
+    }
+  },
+  {
+    "name": "Bruschetta z pomidorami",
+    "weight": [140],
+    "calories": 144.61,
+    "macros": {
+      "protein": 3.77,
+      "fat": 2.08,
+      "carbs": 28.4
+    }
+  },
+  {
+    "name": "Camareo",
+    "weight": [400, 689, 1050],
+    "calories": 200.84,
+    "macros": {
+      "protein": 10.66,
+      "fat": 7.21,
+      "carbs": 23.63
+    }
+  },
+  {
+    "name": "Campione",
+    "weight": [420, 755, 1100],
+    "calories": 257.79,
+    "macros": {
+      "protein": 11.54,
+      "fat": 13.25,
+      "carbs": 23.77
+    }
+  },
+  {
+    "name": "Capriciosa",
+    "weight": [430, 785, 1140],
+    "calories": 182.86,
+    "macros": {
+      "protein": 8.59,
+      "fat": 6.42,
+      "carbs": 23.58
+    }
+  },
+  {
+    "name": "Carbonara",
+    "weight": [446],
+    "calories": 230.74,
+    "macros": {
+      "protein": 6.35,
+      "fat": 16.23,
+      "carbs": 17.49
+    }
+  },
+  {
+    "name": "Cebula biała",
+    "weight": [],
+    "calories": 30.68,
+    "macros": {
+      "protein": 1.36,
+      "fat": 0.45,
+      "carbs": 6.93
+    }
+  },
+  {
+    "name": "Cebula czerwona",
+    "weight": [],
+    "calories": 30.68,
+    "macros": {
+      "protein": 1.36,
+      "fat": 0.45,
+      "carbs": 6.93
+    }
+  },
+  {
+    "name": "Cheese Bacon Burger",
+    "weight": [428],
+    "calories": 192.48,
+    "macros": {
+      "protein": 10.71,
+      "fat": 10.57,
+      "carbs": 13.61
+    }
+  },
+  {
+    "name": "Cheese Bacon Double Burger",
+    "weight": [604],
+    "calories": 198.33,
+    "macros": {
+      "protein": 12.79,
+      "fat": 12.22,
+      "carbs": 9.44
+    }
+  },
+  {
+    "name": "Chicken Burger",
+    "weight": [446],
+    "calories": 151.44,
+    "macros": {
+      "protein": 15.21,
+      "fat": 4.47,
+      "carbs": 12.8
+    }
+  },
+  {
+    "name": "Cioccolato",
+    "weight": [100],
+    "calories": 215,
+    "macros": {
+      "protein": 3.7,
+      "fat": 7.5,
+      "carbs": 31.9
+    }
+  },
+  {
+    "name": "Classic Burger",
+    "weight": [396],
+    "calories": 179.22,
+    "macros": {
+      "protein": 9.93,
+      "fat": 8.71,
+      "carbs": 15.29
+    }
+  },
+  {
+    "name": "Corso",
+    "weight": [360, 665, 1020],
+    "calories": 240.28,
+    "macros": {
+      "protein": 11.68,
+      "fat": 9.6,
+      "carbs": 26.2
+    }
+  },
+  {
+    "name": "Crema Fungo",
+    "weight": [432],
+    "calories": 201.34,
+    "macros": {
+      "protein": 6.91,
+      "fat": 11.29,
+      "carbs": 18.27
+    }
+  },
+  {
+    "name": "Cukinia",
+    "weight": [],
+    "calories": 14.94,
+    "macros": {
+      "protein": 1.15,
+      "fat": 0.11,
+      "carbs": 3.22
+    }
+  },
+  {
+    "name": "Czekoladowy napój na gorąco",
+    "weight": [200],
+    "calories": 147,
+    "macros": {
+      "protein": 2.61,
+      "fat": 6.44,
+      "carbs": 19.74
+    }
+  },
+  {
+    "name": "Czosnek",
+    "weight": [],
+    "calories": 514.99,
+    "macros": {
+      "protein": 3.22,
+      "fat": 50.23,
+      "carbs": 16.32
+    }
+  },
+  {
+    "name": "Cztery Sery",
+    "weight": [400, 695, 1070],
+    "calories": 241.83,
+    "macros": {
+      "protein": 11.13,
+      "fat": 10.35,
+      "carbs": 26.11
+    }
+  },
+  {
+    "name": "Da Grasso",
+    "weight": [390, 709, 1040],
+    "calories": 247.57,
+    "macros": {
+      "protein": 9.76,
+      "fat": 12.04,
+      "carbs": 25.89
+    }
+  },
+  {
+    "name": "Decoro",
+    "weight": [490, 920, 1310],
+    "calories": 173.42,
+    "macros": {
+      "protein": 7.71,
+      "fat": 6.66,
+      "carbs": 21.43
+    }
+  },
+  {
+    "name": "Espresso Tonic",
+    "weight": [320],
+    "calories": 31.71,
+    "macros": {
+      "protein": 0.04,
+      "fat": 0.04,
+      "carbs": 7.41
+    }
+  },
+  {
+    "name": "Fasola czerwona",
+    "weight": [],
+    "calories": 94,
+    "macros": {
+      "protein": 7.2,
+      "fat": 0.8,
+      "carbs": 11.4
+    }
+  },
+  {
+    "name": "Formaggio",
+    "weight": [495],
+    "calories": 176.81,
+    "macros": {
+      "protein": 7.75,
+      "fat": 7,
+      "carbs": 20.88
+    }
+  },
+  {
+    "name": "Formicetta",
+    "weight": [370, 665, 980],
+    "calories": 248.67,
+    "macros": {
+      "protein": 9.51,
+      "fat": 11.18,
+      "carbs": 27.52
+    }
+  },
+  {
+    "name": "Frytki",
+    "weight": [210],
+    "calories": 152,
+    "macros": {
+      "protein": 2.5,
+      "fat": 6,
+      "carbs": 20.5
+    }
+  },
+  {
+    "name": "Frytki skin on (ze skórką)",
+    "weight": [210],
+    "calories": 136,
+    "macros": {
+      "protein": 2.5,
+      "fat": 4,
+      "carbs": 21
+    }
+  },
+  {
+    "name": "Frytki skin on z ketchupem",
+    "weight": [260],
+    "calories": 130.04,
+    "macros": {
+      "protein": 2.37,
+      "fat": 3.42,
+      "carbs": 21.23
+    }
+  },
+  {
+    "name": "Frytki z ketchupem",
+    "weight": [260],
+    "calories": 142.96,
+    "macros": {
+      "protein": 2.37,
+      "fat": 5.04,
+      "carbs": 20.83
+    }
+  },
+  {
+    "name": "Gambero Bianco",
+    "weight": [483],
+    "calories": 203.32,
+    "macros": {
+      "protein": 6.4,
+      "fat": 11.83,
+      "carbs": 18.13
+    }
+  },
+  {
+    "name": "Green Day",
+    "weight": [445, 900, 1320],
+    "calories": 177.06,
+    "macros": {
+      "protein": 7.87,
+      "fat": 7.49,
+      "carbs": 20.19
+    }
+  },
+  {
+    "name": "Havai",
+    "weight": [395, 715, 1050],
+    "calories": 202.11,
+    "macros": {
+      "protein": 8.57,
+      "fat": 6.79,
+      "carbs": 27.3
+    }
+  },
+  {
+    "name": "Havai Junior",
+    "weight": [395],
+    "calories": 202.11,
+    "macros": {
+      "protein": 8.57,
+      "fat": 6.79,
+      "carbs": 27.3
+    }
+  },
+  {
+    "name": "Herbata Lemon Orange",
+    "weight": [300],
+    "calories": 17,
+    "macros": {
+      "protein": 0.19,
+      "fat": 0.05,
+      "carbs": 3.93
+    }
+  },
+  {
+    "name": "Herbata Wild Strawberry",
+    "weight": [300],
+    "calories": 27,
+    "macros": {
+      "protein": 0.18,
+      "fat": 0.06,
+      "carbs": 6.45
+    }
+  },
+  {
+    "name": "Inverno",
+    "weight": [390, 705, 1030],
+    "calories": 237.17,
+    "macros": {
+      "protein": 9.26,
+      "fat": 11.32,
+      "carbs": 25.08
+    }
+  },
+  {
+    "name": "Kabanosy",
+    "weight": [],
+    "calories": 399,
+    "macros": {
+      "protein": 20,
+      "fat": 35,
+      "carbs": 1
+    }
+  },
+  {
+    "name": "Kapary",
+    "weight": [],
+    "calories": 42,
+    "macros": {
+      "protein": 3,
+      "fat": 0.7,
+      "carbs": 6
+    }
+  },
+  {
+    "name": "Karkówka z masłem czosnkowym",
+    "weight": [585],
+    "calories": 205.14,
+    "macros": {
+      "protein": 8.21,
+      "fat": 14.12,
+      "carbs": 10.95
+    }
+  },
+  {
+    "name": "Kawa Czekoladowo - pomarańczowa",
+    "weight": [300],
+    "calories": 104.18,
+    "macros": {
+      "protein": 2.76,
+      "fat": 3.74,
+      "carbs": 14.66
+    }
+  },
+  {
+    "name": "Kawa Słony Karmel",
+    "weight": [300],
+    "calories": 99,
+    "macros": {
+      "protein": 2.46,
+      "fat": 4.15,
+      "carbs": 13.03
+    }
+  },
+  {
+    "name": "Kawa mrożona",
+    "weight": [300],
+    "calories": 28,
+    "macros": {
+      "protein": 1.49,
+      "fat": 1.49,
+      "carbs": 2.15
+    }
+  },
+  {
+    "name": "Kawa mrożona Chocolate Cookie Latte",
+    "weight": [300],
+    "calories": 64.71,
+    "macros": {
+      "protein": 1.48,
+      "fat": 2.46,
+      "carbs": 9.06
+    }
+  },
+  {
+    "name": "Kawa mrożona Mojito Latte",
+    "weight": [300],
+    "calories": 61.13,
+    "macros": {
+      "protein": 1.47,
+      "fat": 2.42,
+      "carbs": 8.36
+    }
+  },
+  {
+    "name": "Kebab",
+    "weight": [390, 735, 1080],
+    "calories": 207.92,
+    "macros": {
+      "protein": 10.56,
+      "fat": 7.1,
+      "carbs": 25.96
+    }
+  },
+  {
+    "name": "Kebab drobiowy",
+    "weight": [],
+    "calories": 118,
+    "macros": {
+      "protein": 23,
+      "fat": 2.4,
+      "carbs": 0.7
+    }
+  },
+  {
+    "name": "Kebab drobiowy",
+    "weight": [555],
+    "calories": 113.9,
+    "macros": {
+      "protein": 8.31,
+      "fat": 4.07,
+      "carbs": 10.46
+    }
+  },
+  {
+    "name": "Kebab w picie z sosem czosnkowym",
+    "weight": [404],
+    "calories": 145.79,
+    "macros": {
+      "protein": 11.92,
+      "fat": 5.28,
+      "carbs": 13.08
+    }
+  },
+  {
+    "name": "Kebab w picie z sosem ostrym",
+    "weight": [404],
+    "calories": 151.52,
+    "macros": {
+      "protein": 11.79,
+      "fat": 5.98,
+      "carbs": 12.96
+    }
+  },
+  {
+    "name": "Kiełbasa",
+    "weight": [],
+    "calories": 299,
+    "macros": {
+      "protein": 11,
+      "fat": 27,
+      "carbs": 3
+    }
+  },
+  {
+    "name": "Krem pomidorowy",
+    "weight": [366],
+    "calories": 99.12,
+    "macros": {
+      "protein": 1.87,
+      "fat": 4.47,
+      "carbs": 12.41
+    }
+  },
+  {
+    "name": "Krewetki",
+    "weight": [],
+    "calories": 59,
+    "macros": {
+      "protein": 13,
+      "fat": 0.8,
+      "carbs": 0
+    }
+  },
+  {
+    "name": "Krewetki tygrysie",
+    "weight": [180],
+    "calories": 279.32,
+    "macros": {
+      "protein": 17.82,
+      "fat": 20.28,
+      "carbs": 8.52
+    }
+  },
+  {
+    "name": "Krucha szarlotka wegańska",
+    "weight": [185],
+    "calories": 167,
+    "macros": {
+      "protein": 1.5,
+      "fat": 5,
+      "carbs": 28.1
+    }
+  },
+  {
+    "name": "Kukurydza",
+    "weight": [],
+    "calories": 120,
+    "macros": {
+      "protein": 3.1,
+      "fat": 1.6,
+      "carbs": 21.8
+    }
+  },
+  {
+    "name": "Lasagne Bolognese",
+    "weight": [422],
+    "calories": 151.47,
+    "macros": {
+      "protein": 8.26,
+      "fat": 6.04,
+      "carbs": 15.8
+    }
+  },
+  {
+    "name": "Lasagne Spinachi",
+    "weight": [421],
+    "calories": 151.07,
+    "macros": {
+      "protein": 7.56,
+      "fat": 6.96,
+      "carbs": 14.12
+    }
+  },
+  {
+    "name": "Mafioso",
+    "weight": [354, 629, 945],
+    "calories": 240.54,
+    "macros": {
+      "protein": 9.8,
+      "fat": 10.33,
+      "carbs": 28.03
+    }
+  },
+  {
+    "name": "Majonez",
+    "weight": [],
+    "calories": 230,
+    "macros": {
+      "protein": 0.5,
+      "fat": 21.6,
+      "carbs": 8.5
+    }
+  },
+  {
+    "name": "Margherita",
+    "weight": [310, 565, 860],
+    "calories": 242.4,
+    "macros": {
+      "protein": 10.15,
+      "fat": 8.56,
+      "carbs": 31.67
+    }
+  },
+  {
+    "name": "Margherita Junior",
+    "weight": [310],
+    "calories": 242.4,
+    "macros": {
+      "protein": 10.15,
+      "fat": 8.56,
+      "carbs": 31.67
+    }
+  },
+  {
+    "name": "Marinara",
+    "weight": [304, 534, 848],
+    "calories": 202.77,
+    "macros": {
+      "protein": 4.51,
+      "fat": 4.4,
+      "carbs": 36.24
+    }
+  },
+  {
+    "name": "Mieszanka frutti di mare",
+    "weight": [],
+    "calories": 88,
+    "macros": {
+      "protein": 16,
+      "fat": 1.1,
+      "carbs": 3.8
+    }
+  },
+  {
+    "name": "Mozzarella",
+    "weight": [327],
+    "calories": 210.06,
+    "macros": {
+      "protein": 6.2,
+      "fat": 5.28,
+      "carbs": 35.1
+    }
+  },
+  {
+    "name": "Naleśnik z kebabem",
+    "weight": [280],
+    "calories": 161.52,
+    "macros": {
+      "protein": 8.63,
+      "fat": 9.88,
+      "carbs": 10.25
+    }
+  },
+  {
+    "name": "Naleśnik z serem sałatkowym i oliwkami",
+    "weight": [260],
+    "calories": 136.66,
+    "macros": {
+      "protein": 4.79,
+      "fat": 8.08,
+      "carbs": 12.08
+    }
+  },
+  {
+    "name": "Naleśniki z kurczakiem i suszonymi pomidorami",
+    "weight": [285],
+    "calories": 173.3,
+    "macros": {
+      "protein": 8.62,
+      "fat": 10.37,
+      "carbs": 11.95
+    }
+  },
+  {
+    "name": "Napoletana",
+    "weight": [370, 680, 1000],
+    "calories": 231.63,
+    "macros": {
+      "protein": 9.52,
+      "fat": 9.9,
+      "carbs": 26.83
+    }
+  },
+  {
+    "name": "Ogórki konserwowe",
+    "weight": [],
+    "calories": 50,
+    "macros": {
+      "protein": 0.6,
+      "fat": 0.3,
+      "carbs": 10.2
+    }
+  },
+  {
+    "name": "Oliwki czarne",
+    "weight": [],
+    "calories": 132,
+    "macros": {
+      "protein": 1.1,
+      "fat": 14.5,
+      "carbs": 4.9
+    }
+  },
+  {
+    "name": "Oliwki zielone",
+    "weight": [],
+    "calories": 148,
+    "macros": {
+      "protein": 0.9,
+      "fat": 15,
+      "carbs": 0
+    }
+  },
+  {
+    "name": "Pancetta",
+    "weight": [470, 835, 1220],
+    "calories": 210.72,
+    "macros": {
+      "protein": 8.78,
+      "fat": 9.44,
+      "carbs": 22.83
+    }
+  },
+  {
+    "name": "Papryczki jalapenos",
+    "weight": [],
+    "calories": 30,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 6
+    }
+  },
+  {
+    "name": "Papryka konserwowa",
+    "weight": [],
+    "calories": 24,
+    "macros": {
+      "protein": 1,
+      "fat": 0,
+      "carbs": 4
+    }
+  },
+  {
+    "name": "Papryka świeża",
+    "weight": [],
+    "calories": 28.24,
+    "macros": {
+      "protein": 1.29,
+      "fat": 0.47,
+      "carbs": 6.59
+    }
+  },
+  {
+    "name": "Parma",
+    "weight": [314, 509, 848],
+    "calories": 223.99,
+    "macros": {
+      "protein": 7.87,
+      "fat": 5.63,
+      "carbs": 35.55
+    }
+  },
+  {
+    "name": "Pepe Bianco",
+    "weight": [438, 820, 1210],
+    "calories": 224.19,
+    "macros": {
+      "protein": 10.47,
+      "fat": 10.34,
+      "carbs": 22.21
+    }
+  },
+  {
+    "name": "Pepe Roso",
+    "weight": [380, 715, 1050],
+    "calories": 216.69,
+    "macros": {
+      "protein": 9.31,
+      "fat": 8.46,
+      "carbs": 26.49
+    }
+  },
+  {
+    "name": "Pepperoni",
+    "weight": [330, 625, 940],
+    "calories": 263.84,
+    "macros": {
+      "protein": 10.7,
+      "fat": 12.15,
+      "carbs": 28.33
+    }
+  },
+  {
+    "name": "Piacere",
+    "weight": [450, 835, 1190],
+    "calories": 223.4,
+    "macros": {
+      "protein": 9.21,
+      "fat": 10.08,
+      "carbs": 24.54
+    }
+  },
+  {
+    "name": "Pieczarki",
+    "weight": [],
+    "calories": 16.85,
+    "macros": {
+      "protein": 2.7,
+      "fat": 0.45,
+      "carbs": 2.58
+    }
+  },
+  {
+    "name": "Pieczona pierś z kurczaka",
+    "weight": [],
+    "calories": 101,
+    "macros": {
+      "protein": 19.3,
+      "fat": 1.7,
+      "carbs": 2.2
+    }
+  },
+  {
+    "name": "Pieczone pieczarki faszerowane boczkiem i serem",
+    "weight": [342],
+    "calories": 130.38,
+    "macros": {
+      "protein": 7.56,
+      "fat": 7.66,
+      "carbs": 8.63
+    }
+  },
+  {
+    "name": "Pieczywo typu bastoncino z cebulą",
+    "weight": [50],
+    "calories": 247,
+    "macros": {
+      "protein": 7.1,
+      "fat": 2.4,
+      "carbs": 48
+    }
+  },
+  {
+    "name": "Pieczywo typu bastoncino z oliwkami",
+    "weight": [50],
+    "calories": 278,
+    "macros": {
+      "protein": 7.2,
+      "fat": 8.1,
+      "carbs": 42.2
+    }
+  },
+  {
+    "name": "Pierś z kurczaka soute",
+    "weight": [570],
+    "calories": 128.47,
+    "macros": {
+      "protein": 11.1,
+      "fat": 4.87,
+      "carbs": 9.64
+    }
+  },
+  {
+    "name": "Pierś z kurczaka z serem i suszonymi pomidorami",
+    "weight": [640],
+    "calories": 149.09,
+    "macros": {
+      "protein": 11.46,
+      "fat": 7.34,
+      "carbs": 8.92
+    }
+  },
+  {
+    "name": "Pollo",
+    "weight": [410, 745, 1100],
+    "calories": 212.41,
+    "macros": {
+      "protein": 10.88,
+      "fat": 8.12,
+      "carbs": 24.81
+    }
+  },
+  {
+    "name": "Pollo Con Broccoli",
+    "weight": [455, 825, 1220],
+    "calories": 200.84,
+    "macros": {
+      "protein": 10.66,
+      "fat": 7.21,
+      "carbs": 23.63
+    }
+  },
+  {
+    "name": "Pollo Pesto",
+    "weight": [253],
+    "calories": 383.68,
+    "macros": {
+      "protein": 9.86,
+      "fat": 25.45,
+      "carbs": 29.22
+    }
+  },
+  {
+    "name": "Polska",
+    "weight": [470, 845, 1260],
+    "calories": 213.86,
+    "macros": {
+      "protein": 9.48,
+      "fat": 9.8,
+      "carbs": 22.45
+    }
+  },
+  {
+    "name": "Polędwiczka grillowana",
+    "weight": [570],
+    "calories": 129.21,
+    "macros": {
+      "protein": 9.06,
+      "fat": 5.76,
+      "carbs": 9.92
+    }
+  },
+  {
+    "name": "Polędwiczka z pastą kurkową",
+    "weight": [761],
+    "calories": 216.03,
+    "macros": {
+      "protein": 10.85,
+      "fat": 13.47,
+      "carbs": 12.53
+    }
+  },
+  {
+    "name": "Polędwiczka z zielonym pieprzem",
+    "weight": [686],
+    "calories": 189.35,
+    "macros": {
+      "protein": 10.67,
+      "fat": 10.58,
+      "carbs": 12.3
+    }
+  },
+  {
+    "name": "Polędwiczki z kurczaka w łagodnej panierce",
+    "weight": [560],
+    "calories": 129.34,
+    "macros": {
+      "protein": 7.75,
+      "fat": 4.85,
+      "carbs": 13.17
+    }
+  },
+  {
+    "name": "Pomidory koktajlowe",
+    "weight": [],
+    "calories": 18,
+    "macros": {
+      "protein": 0.88,
+      "fat": 0.2,
+      "carbs": 3.65
+    }
+  },
+  {
+    "name": "Pomidory suszone",
+    "weight": [],
+    "calories": 355.93,
+    "macros": {
+      "protein": 2.18,
+      "fat": 35.21,
+      "carbs": 7.58
+    }
+  },
+  {
+    "name": "Prosciutto",
+    "weight": [431],
+    "calories": 180.97,
+    "macros": {
+      "protein": 7.3,
+      "fat": 4.93,
+      "carbs": 27.58
+    }
+  },
+  {
+    "name": "Quattro Stagioni",
+    "weight": [380, 680, 1070],
+    "calories": 203.72,
+    "macros": {
+      "protein": 8.6,
+      "fat": 7.3,
+      "carbs": 26.31
+    }
+  },
+  {
+    "name": "Quesadilla Funghi",
+    "weight": [470],
+    "calories": 234.65,
+    "macros": {
+      "protein": 13.9,
+      "fat": 9.52,
+      "carbs": 22.9
+    }
+  },
+  {
+    "name": "Ravioli ricotta szpinak",
+    "weight": [284],
+    "calories": 230.41,
+    "macros": {
+      "protein": 7.54,
+      "fat": 12.56,
+      "carbs": 15.19
+    }
+  },
+  {
+    "name": "Ravioli z mięsem wieprzowym",
+    "weight": [272],
+    "calories": 150.8,
+    "macros": {
+      "protein": 7.63,
+      "fat": 4.95,
+      "carbs": 18.62
+    }
+  },
+  {
+    "name": "Roma",
+    "weight": [410, 755, 1100],
+    "calories": 230.03,
+    "macros": {
+      "protein": 10.09,
+      "fat": 10.4,
+      "carbs": 24.63
+    }
+  },
+  {
+    "name": "Rukola świeża",
+    "weight": [],
+    "calories": 25,
+    "macros": {
+      "protein": 2.6,
+      "fat": 0.7,
+      "carbs": 3.7
+    }
+  },
+  {
+    "name": "Ryż",
+    "weight": [100],
+    "calories": 344,
+    "macros": {
+      "protein": 6.7,
+      "fat": 0.7,
+      "carbs": 78.9
+    }
+  },
+  {
+    "name": "Salame",
+    "weight": [485],
+    "calories": 201.61,
+    "macros": {
+      "protein": 6.35,
+      "fat": 8.53,
+      "carbs": 25.27
+    }
+  },
+  {
+    "name": "Salami",
+    "weight": [],
+    "calories": 300,
+    "macros": {
+      "protein": 17,
+      "fat": 28,
+      "carbs": 2.4
+    }
+  },
+  {
+    "name": "Salami Pepperoni",
+    "weight": [],
+    "calories": 430,
+    "macros": {
+      "protein": 15,
+      "fat": 40,
+      "carbs": 2.4
+    }
+  },
+  {
+    "name": "Saporito",
+    "weight": [510, 955, 1330],
+    "calories": 163.13,
+    "macros": {
+      "protein": 8.99,
+      "fat": 5.57,
+      "carbs": 19.82
+    }
+  },
+  {
+    "name": "Sałata Da Grasso",
+    "weight": [410],
+    "calories": 120.79,
+    "macros": {
+      "protein": 9.5,
+      "fat": 4.76,
+      "carbs": 10.24
+    }
+  },
+  {
+    "name": "Sałata Grecka",
+    "weight": [420],
+    "calories": 132.12,
+    "macros": {
+      "protein": 5.74,
+      "fat": 7.39,
+      "carbs": 10.61
+    }
+  },
+  {
+    "name": "Sałata z kurczakiem",
+    "weight": [400],
+    "calories": 108.4,
+    "macros": {
+      "protein": 9.18,
+      "fat": 3.92,
+      "carbs": 9.25
+    }
+  },
+  {
+    "name": "Sałata z pieczonym łososiem",
+    "weight": [420],
+    "calories": 116.87,
+    "macros": {
+      "protein": 5.91,
+      "fat": 5.34,
+      "carbs": 11.76
+    }
+  },
+  {
+    "name": "Sałata z pieczoną szynką parmeńską",
+    "weight": [340],
+    "calories": 174.05,
+    "macros": {
+      "protein": 7.86,
+      "fat": 10.29,
+      "carbs": 13.33
+    }
+  },
+  {
+    "name": "Sałata z tuńczykiem",
+    "weight": [390],
+    "calories": 116.71,
+    "macros": {
+      "protein": 8.6,
+      "fat": 4.02,
+      "carbs": 9.37
+    }
+  },
+  {
+    "name": "Sałata ze stripsami z kurczaka",
+    "weight": [400],
+    "calories": 120.6,
+    "macros": {
+      "protein": 8.85,
+      "fat": 4.86,
+      "carbs": 10.3
+    }
+  },
+  {
+    "name": "Sałatka ze świeżych warzyw",
+    "weight": [150],
+    "calories": 51.4,
+    "macros": {
+      "protein": 0.84,
+      "fat": 2.01,
+      "carbs": 8.03
+    }
+  },
+  {
+    "name": "Scampi Tuna",
+    "weight": [465, 815, 1200],
+    "calories": 197.97,
+    "macros": {
+      "protein": 10.11,
+      "fat": 7.39,
+      "carbs": 22.38
+    }
+  },
+  {
+    "name": "Semplicita",
+    "weight": [330, 605, 920],
+    "calories": 233.16,
+    "macros": {
+      "protein": 10.38,
+      "fat": 8.23,
+      "carbs": 29.94
+    }
+  },
+  {
+    "name": "Ser",
+    "weight": [],
+    "calories": 294,
+    "macros": {
+      "protein": 24,
+      "fat": 22,
+      "carbs": 0
+    }
+  },
+  {
+    "name": "Ser mozarella",
+    "weight": [],
+    "calories": 248,
+    "macros": {
+      "protein": 11.4,
+      "fat": 12.2,
+      "carbs": 23.6
+    }
+  },
+  {
+    "name": "Ser pleśniowy",
+    "weight": [],
+    "calories": 307,
+    "macros": {
+      "protein": 19,
+      "fat": 25,
+      "carbs": 1.5
+    }
+  },
+  {
+    "name": "Ser sałatkowy",
+    "weight": [],
+    "calories": 263,
+    "macros": {
+      "protein": 15,
+      "fat": 22,
+      "carbs": 1
+    }
+  },
+  {
+    "name": "Sernik z nadzieniem karmelowym",
+    "weight": [120],
+    "calories": 331,
+    "macros": {
+      "protein": 4.8,
+      "fat": 19.6,
+      "carbs": 33.7
+    }
+  },
+  {
+    "name": "Shake pomarańczowo-czekoladowy",
+    "weight": [325],
+    "calories": 80.6,
+    "macros": {
+      "protein": 1.94,
+      "fat": 2.46,
+      "carbs": 12.3
+    }
+  },
+  {
+    "name": "Shake waniliowo-pomarańczowy",
+    "weight": [330],
+    "calories": 87.63,
+    "macros": {
+      "protein": 1.87,
+      "fat": 3.42,
+      "carbs": 12.33
+    }
+  },
+  {
+    "name": "Shake waniliowo-truskawkowy",
+    "weight": [320],
+    "calories": 84.38,
+    "macros": {
+      "protein": 2.01,
+      "fat": 2.61,
+      "carbs": 13.21
+    }
+  },
+  {
+    "name": "Skrzydełka z kurczaka",
+    "weight": [380, 560],
+    "calories": 165.61,
+    "macros": {
+      "protein": 13.67,
+      "fat": 10.39,
+      "carbs": 4.63
+    }
+  },
+  {
+    "name": "Sos Chilli Louisiana",
+    "weight": [],
+    "calories": 0,
+    "macros": {
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0
+    }
+  },
+  {
+    "name": "Sos czosnkowy",
+    "weight": [50, 125, 125],
+    "calories": 140.95,
+    "macros": {
+      "protein": 1.95,
+      "fat": 11.65,
+      "carbs": 7.08
+    }
+  },
+  {
+    "name": "Sos czosnkowy",
+    "weight": [50, 30],
+    "calories": 140.95,
+    "macros": {
+      "protein": 1.95,
+      "fat": 11.65,
+      "carbs": 7.08
+    }
+  },
+  {
+    "name": "Sos musztardowo-miodowy",
+    "weight": [50, 125, 125],
+    "calories": 174,
+    "macros": {
+      "protein": 1.5,
+      "fat": 12,
+      "carbs": 15
+    }
+  },
+  {
+    "name": "Sos musztardowo-miodowy",
+    "weight": [50, 30],
+    "calories": 159,
+    "macros": {
+      "protein": 1.5,
+      "fat": 14,
+      "carbs": 6.6
+    }
+  },
+  {
+    "name": "Sos ostry",
+    "weight": [50, 125, 125],
+    "calories": 177,
+    "macros": {
+      "protein": 0.65,
+      "fat": 17,
+      "carbs": 5.9
+    }
+  },
+  {
+    "name": "Sos pomidorowy",
+    "weight": [50, 125, 125],
+    "calories": 75.85,
+    "macros": {
+      "protein": 2.03,
+      "fat": 0.48,
+      "carbs": 15.18
+    }
+  },
+  {
+    "name": "Sos rukolowy",
+    "weight": [50, 30],
+    "calories": 560,
+    "macros": {
+      "protein": 0.79,
+      "fat": 57,
+      "carbs": 11
+    }
+  },
+  {
+    "name": "Sos winegret",
+    "weight": [50, 30],
+    "calories": 183,
+    "macros": {
+      "protein": 0.03,
+      "fat": 9.2,
+      "carbs": 25
+    }
+  },
+  {
+    "name": "Spagnola",
+    "weight": [100],
+    "calories": 217,
+    "macros": {
+      "protein": 1.7,
+      "fat": 5.2,
+      "carbs": 40.4
+    }
+  },
+  {
+    "name": "Sparare",
+    "weight": [580, 1060, 1470],
+    "calories": 173.6,
+    "macros": {
+      "protein": 6.97,
+      "fat": 7.49,
+      "carbs": 20.14
+    }
+  },
+  {
+    "name": "Spicy Burger",
+    "weight": [436],
+    "calories": 193.43,
+    "macros": {
+      "protein": 10.69,
+      "fat": 10.53,
+      "carbs": 13.8
+    }
+  },
+  {
+    "name": "Spinachi",
+    "weight": [485],
+    "calories": 193.33,
+    "macros": {
+      "protein": 5.54,
+      "fat": 11.78,
+      "carbs": 16.89
+    }
+  },
+  {
+    "name": "Sprite Lemongrass",
+    "weight": [320],
+    "calories": 30.56,
+    "macros": {
+      "protein": 0.07,
+      "fat": 0.03,
+      "carbs": 7.58
+    }
+  },
+  {
+    "name": "Stracciatella",
+    "weight": [100],
+    "calories": 222,
+    "macros": {
+      "protein": 3,
+      "fat": 8.5,
+      "carbs": 31.9
+    }
+  },
+  {
+    "name": "Strawberry Mojito",
+    "weight": [320],
+    "calories": 53.57,
+    "macros": {
+      "protein": 0.09,
+      "fat": 0.02,
+      "carbs": 13.33
+    }
+  },
+  {
+    "name": "Stripsy z kurczaka w panierce",
+    "weight": [310],
+    "calories": 152.22,
+    "macros": {
+      "protein": 12.82,
+      "fat": 5.67,
+      "carbs": 11.58
+    }
+  },
+  {
+    "name": "Szpinak",
+    "weight": [],
+    "calories": 16.25,
+    "macros": {
+      "protein": 2.63,
+      "fat": 0.38,
+      "carbs": 3
+    }
+  },
+  {
+    "name": "Szynka",
+    "weight": [],
+    "calories": 90,
+    "macros": {
+      "protein": 14,
+      "fat": 3.1,
+      "carbs": 3
+    }
+  },
+  {
+    "name": "Szynka dojrzewająca",
+    "weight": [],
+    "calories": 239,
+    "macros": {
+      "protein": 26,
+      "fat": 15,
+      "carbs": 0
+    }
+  },
+  {
+    "name": "Tortilla z panierowaną polędwiczką z kurczaka",
+    "weight": [280],
+    "calories": 152.41,
+    "macros": {
+      "protein": 8.21,
+      "fat": 4.98,
+      "carbs": 18.68
+    }
+  },
+  {
+    "name": "Tuńczyk",
+    "weight": [],
+    "calories": 205,
+    "macros": {
+      "protein": 26.4,
+      "fat": 7.06,
+      "carbs": 0
+    }
+  },
+  {
+    "name": "Viola",
+    "weight": [410, 729, 1090],
+    "calories": 235.1,
+    "macros": {
+      "protein": 9.03,
+      "fat": 10.46,
+      "carbs": 27.07
+    }
+  },
+  {
+    "name": "Wiejska",
+    "weight": [420, 780, 1150],
+    "calories": 219.02,
+    "macros": {
+      "protein": 8.52,
+      "fat": 9.51,
+      "carbs": 25.37
+    }
+  },
+  {
+    "name": "Zupa cebulowa",
+    "weight": [366],
+    "calories": 112.62,
+    "macros": {
+      "protein": 1.74,
+      "fat": 7.34,
+      "carbs": 9.55
+    }
+  },
+  {
+    "name": "Łosoś soute",
+    "weight": [579],
+    "calories": 148.93,
+    "macros": {
+      "protein": 7.53,
+      "fat": 8.81,
+      "carbs": 9.64
+    }
+  }
+]
