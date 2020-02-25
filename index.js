@@ -1,25 +1,9 @@
 import { h, render, Component } from "preact";
-import { bobbyburger, dagrasso, lajkonik, pasibus } from "./data";
+import { companies, dataset } from "./data";
 
 const NO_DATA = "—";
 const SEPARATOR = " / ";
 const CORRECTNESS_THRESHOLD = 15;
-
-const companies = {
-  ["Bobby Burger"]: bobbyburger,
-  ["DaGrasso"]: dagrasso,
-  ["Lajkonik"]: lajkonik,
-  ["Pasibus"]: pasibus
-};
-
-const dataset = Object.keys(companies)
-  .map(company =>
-    companies[company].map(v => ({
-      company,
-      ...v
-    }))
-  )
-  .flat();
 
 function unify(input) {
   return input
@@ -45,24 +29,27 @@ class Item extends Component {
       macros: { protein, fat, carbs }
     } = this.props.data;
 
-    const caloriesFromMacros = Math.round(protein * 4 + fat * 9 + carbs * 4);
-    const caloriesPerPortion = weight.map(weight => Math.round(calories * (weight / 100)));
-    const caloriesFromMacrosPerPortion = weight.map(weight => Math.round(caloriesFromMacros * (weight / 100)));
+    const hasMissingMacro = protein === null || fat === null || carbs === null;
+    const caloriesFromMacros = hasMissingMacro ? NO_DATA : Math.round(protein * 4 + fat * 9 + carbs * 4);
+    const caloriesPerPortion = weight.map(weight => Math.round(calories * (weight / 100))).join(SEPARATOR);
+    const caloriesFromMacrosPerPortion = hasMissingMacro
+      ? NO_DATA
+      : weight.map(weight => Math.round(caloriesFromMacros * (weight / 100))).join(SEPARATOR);
     const hasIncorrectMacros =
       caloriesFromMacros < calories - CORRECTNESS_THRESHOLD || caloriesFromMacros > calories + CORRECTNESS_THRESHOLD;
 
     return (
-      <tr>
+      <tr class={hasIncorrectMacros && "incorrect-macros"}>
         <td>{company}</td>
         <td>{name}</td>
         <td>{weight.map(w => Math.round(w)).join(SEPARATOR) || NO_DATA}</td>
-        <td>{Math.round(protein * 10) / 10}</td>
-        <td>{Math.round(fat * 10) / 10}</td>
-        <td>{Math.round(carbs * 10) / 10}</td>
-        <td>{Math.round(calories)}</td>
-        <td class={hasIncorrectMacros && "incorrect-macros"}>{caloriesFromMacros}</td>
-        <td>{caloriesPerPortion.join(SEPARATOR) || NO_DATA}</td>
-        <td>{caloriesFromMacrosPerPortion.join(SEPARATOR) || NO_DATA}</td>
+        <td>{protein === null ? NO_DATA : Math.round(protein * 10) / 10}</td>
+        <td>{fat === null ? NO_DATA : Math.round(fat * 10) / 10}</td>
+        <td>{carbs === null ? NO_DATA : Math.round(carbs * 10) / 10}</td>
+        <td>{calories === null ? NO_DATA : Math.round(calories)}</td>
+        <td>{caloriesFromMacros}</td>
+        <td>{caloriesPerPortion || NO_DATA}</td>
+        <td>{caloriesFromMacrosPerPortion || NO_DATA}</td>
       </tr>
     );
   }
@@ -95,8 +82,24 @@ class App extends Component {
       <div>
         <h1 class="title">Food Nutrition Database</h1>
         <h2 class="subtitle">
-          <strong>Available datasets:</strong> {Object.keys(companies).join(", ")}
+          <strong>Available datasets:</strong> {companies}
         </h2>
+        <section>
+          <p>
+            - <i>C - calories</i>
+          </p>
+          <p>
+            - <i>CC - calculated calories</i>
+          </p>
+          <p>
+            - <i>CPP - calories per portion</i>
+          </p>
+          <p>
+            - <i>CCPP - calculated calories per portion</i>
+          </p>
+          <p>- items that are missing weight, are already showing per-portion data</p>
+          <p>- items marked as yellow has a large difference between declared and calculated calories amount</p>
+        </section>
         <input
           class="input is-medium"
           placeholder="Filter"
@@ -109,14 +112,14 @@ class App extends Component {
             <tr>
               <th>Company</th>
               <th>Name</th>
-              <th>Weight</th>
-              <th>Protein</th>
-              <th>Fat</th>
-              <th>Carbs</th>
-              <th>Cals</th>
-              <th>Cals FM</th>
-              <th>Cals PP</th>
-              <th>Cals FMPP</th>
+              <th>Weight/g</th>
+              <th>Protein/g</th>
+              <th>Fat/g</th>
+              <th>Carbs/g</th>
+              <th>C/kcal</th>
+              <th>CC/kcal</th>
+              <th>CPP/kcal</th>
+              <th>CCPP/kcal</th>
             </tr>
           </thead>
 

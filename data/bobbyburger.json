@@ -1,7 +1,7 @@
 [
   {
     "name": "Alibaba",
-    "weight": [100],
+    "weight": [],
     "calories": 915.3,
     "macros": {
       "protein": 35.9,
@@ -11,7 +11,7 @@
   },
   {
     "name": "Bobby Burger",
-    "weight": [100],
+    "weight": [],
     "calories": 1035.9,
     "macros": {
       "protein": 57.4,
@@ -21,7 +21,7 @@
   },
   {
     "name": "Bobby’s Salad",
-    "weight": [100],
+    "weight": [],
     "calories": 368.8,
     "macros": {
       "protein": 32.5,
@@ -31,7 +31,7 @@
   },
   {
     "name": "Brajan",
-    "weight": [100],
+    "weight": [],
     "calories": 677.6,
     "macros": {
       "protein": 19.9,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Cheese",
-    "weight": [100],
+    "weight": [],
     "calories": 618.7,
     "macros": {
       "protein": 34,
@@ -51,7 +51,7 @@
   },
   {
     "name": "Cheese Bacon",
-    "weight": [100],
+    "weight": [],
     "calories": 723.6,
     "macros": {
       "protein": 35.9,
@@ -61,7 +61,7 @@
   },
   {
     "name": "Chicken",
-    "weight": [100],
+    "weight": [],
     "calories": 456.6,
     "macros": {
       "protein": 27.9,
@@ -71,7 +71,7 @@
   },
   {
     "name": "Classic",
-    "weight": [100],
+    "weight": [],
     "calories": 543.2,
     "macros": {
       "protein": 27.6,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Double Death by Cheese",
-    "weight": [100],
+    "weight": [],
     "calories": 1141.2,
     "macros": {
       "protein": 67.6,
@@ -91,7 +91,7 @@
   },
   {
     "name": "Double Trouble with Bacon",
-    "weight": [100],
+    "weight": [],
     "calories": 1140,
     "macros": {
       "protein": 59,
@@ -101,7 +101,7 @@
   },
   {
     "name": "Fries Box",
-    "weight": [100],
+    "weight": [],
     "calories": 738.2,
     "macros": {
       "protein": 11.9,
@@ -111,7 +111,7 @@
   },
   {
     "name": "Frytki",
-    "weight": [100],
+    "weight": [],
     "calories": 247.6,
     "macros": {
       "protein": 3.6,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Frytki Skin On",
-    "weight": [100],
+    "weight": [],
     "calories": 154.6,
     "macros": {
       "protein": 3.2,
@@ -131,7 +131,7 @@
   },
   {
     "name": "Godzilla",
-    "weight": [100],
+    "weight": [],
     "calories": 1485.8,
     "macros": {
       "protein": 89.9,
@@ -141,7 +141,7 @@
   },
   {
     "name": "Grażyna",
-    "weight": [100],
+    "weight": [],
     "calories": 612.7,
     "macros": {
       "protein": 16.1,
@@ -151,7 +151,7 @@
   },
   {
     "name": "Hot Bacon",
-    "weight": [100],
+    "weight": [],
     "calories": 708.9,
     "macros": {
       "protein": 36.2,
@@ -161,7 +161,7 @@
   },
   {
     "name": "Janush",
-    "weight": [100],
+    "weight": [],
     "calories": 680.9,
     "macros": {
       "protein": 14.5,
@@ -171,7 +171,7 @@
   },
   {
     "name": "Keto Burger",
-    "weight": [100],
+    "weight": [],
     "calories": 526.9,
     "macros": {
       "protein": 44.7,
@@ -181,7 +181,7 @@
   },
   {
     "name": "Mango & Onion",
-    "weight": [100],
+    "weight": [],
     "calories": 953.4,
     "macros": {
       "protein": 37.6,
@@ -191,7 +191,7 @@
   },
   {
     "name": "Mozzarella Sticks",
-    "weight": [100],
+    "weight": [],
     "calories": 407.5,
     "macros": {
       "protein": 18.8,
@@ -201,7 +201,7 @@
   },
   {
     "name": "Narchos",
-    "weight": [100],
+    "weight": [],
     "calories": 811.6,
     "macros": {
       "protein": 34.3,
@@ -211,7 +211,7 @@
   },
   {
     "name": "Onion Attacks",
-    "weight": [100],
+    "weight": [],
     "calories": 1043.5,
     "macros": {
       "protein": 39.1,
@@ -221,7 +221,7 @@
   },
   {
     "name": "Onion Rings",
-    "weight": [100],
+    "weight": [],
     "calories": 382.2,
     "macros": {
       "protein": 6.2,
@@ -231,7 +231,7 @@
   },
   {
     "name": "Power Plant",
-    "weight": [100],
+    "weight": [],
     "calories": 551.8,
     "macros": {
       "protein": 28.9,
@@ -241,7 +241,7 @@
   },
   {
     "name": "Simple Green Salad",
-    "weight": [100],
+    "weight": [],
     "calories": 55.5,
     "macros": {
       "protein": 1.9,
@@ -251,7 +251,7 @@
   },
   {
     "name": "Taekwondo",
-    "weight": [100],
+    "weight": [],
     "calories": 420.3,
     "macros": {
       "protein": 30.4,
@@ -261,7 +261,7 @@
   },
   {
     "name": "Vedżesika",
-    "weight": [100],
+    "weight": [],
     "calories": 751.1,
     "macros": {
       "protein": 31.1,
