@@ -84,7 +84,7 @@ class App extends React.Component {
     );
     return (
       <div>
-        <h1 className="title">Food Nutrition Database</h1>
+        <h1 className="title">Nutrition Database</h1>
         <h2 className="subtitle">
           <strong>Available datasets:</strong> {Object.keys(companies).join(", ")}
         </h2>
@@ -105,6 +105,7 @@ class App extends React.Component {
           <p>- items marked as yellow has a large difference between declared and calculated calories amount</p>
         </section>
         <input
+          autofocus
           className="input is-medium"
           placeholder="Filter"
           type="text"
