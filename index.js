@@ -105,7 +105,7 @@ class App extends React.Component {
           <p>- items marked as yellow has a large difference between declared and calculated calories amount</p>
         </section>
         <input
-          autofocus
+          autofocus="true"
           className="input is-medium"
           placeholder="Filter"
           type="text"
