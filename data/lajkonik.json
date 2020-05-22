@@ -1010,6 +1010,16 @@
     }
   },
   {
+    "name": "Pasta jajeczna",
+    "weight": [250],
+    "calories": 235,
+    "macros": {
+      "protein": 7.8,
+      "fat": 22,
+      "carbs": 0.9
+    }
+  },
+  {
     "name": "Piernik gwiazdkowy",
     "weight": [700],
     "calories": 476,

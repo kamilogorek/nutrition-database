@@ -1401,17 +1401,7 @@
   },
   {
     "name": "Sos czosnkowy",
-    "weight": [50, 125, 125],
-    "calories": 140.95,
-    "macros": {
-      "protein": 1.95,
-      "fat": 11.65,
-      "carbs": 7.08
-    }
-  },
-  {
-    "name": "Sos czosnkowy",
-    "weight": [50, 30],
+    "weight": [50, 125],
     "calories": 140.95,
     "macros": {
       "protein": 1.95,
@@ -1421,7 +1411,7 @@
   },
   {
     "name": "Sos musztardowo-miodowy",
-    "weight": [50, 125, 125],
+    "weight": [50, 125],
     "calories": 174,
     "macros": {
       "protein": 1.5,
@@ -1430,18 +1420,8 @@
     }
   },
   {
-    "name": "Sos musztardowo-miodowy",
-    "weight": [50, 30],
-    "calories": 159,
-    "macros": {
-      "protein": 1.5,
-      "fat": 14,
-      "carbs": 6.6
-    }
-  },
-  {
     "name": "Sos ostry",
-    "weight": [50, 125, 125],
+    "weight": [50, 125],
     "calories": 177,
     "macros": {
       "protein": 0.65,
@@ -1451,7 +1431,7 @@
   },
   {
     "name": "Sos pomidorowy",
-    "weight": [50, 125, 125],
+    "weight": [50, 125],
     "calories": 75.85,
     "macros": {
       "protein": 2.03,
