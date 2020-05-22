@@ -1011,7 +1011,7 @@
   },
   {
     "name": "Pasta jajeczna",
-    "weight": [250],
+    "weight": [100],
     "calories": 235,
     "macros": {
       "protein": 7.8,
